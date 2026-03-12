@@ -1,9 +1,10 @@
 ## Introduction
-This project is a basic implementation of DVBE by pytorch platform.
+Visual and Semantic Prompt Collaboration for Generalized Zero-Shot Learning.
+This project is a basic implementation of VSPCN by pytorch platform.
 
-To do:
-1. adding the autoML part.
-2. publishing the segmentation version.
+## Architecture
+
+![alt text](architecture.png)
 
 ## Requirements
 
@@ -14,10 +15,11 @@ To do:
 
 ## Implementations
 
+python main.py
 
 ## Datasets Prepare
 
-1. Downloading correspond dataset, e.g., CUB, AWA2, aPY, and SUN. Assume your data path is ${PATH}. A provided url is: (https://pan.baidu.com/s/1RYCZzKOuhDObuO-l-Ig78A     73rw)
+1. Dataset: please download the dataset (CUB, AWA2, SUN) to your machine and set the path correspondingly.
 
-2. Changing the data path around the line 190 of main.py, according to your ${PATH}.
+2. Attribute w2v: the attribute w2v is in w2v file and the processing procedure refers to PSVMA.
 
