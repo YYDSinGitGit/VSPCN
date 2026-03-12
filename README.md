@@ -1,6 +1,7 @@
 ## Introduction
 Visual and Semantic Prompt Collaboration for Generalized Zero-Shot Learning.
-This project is a basic implementation of VSPCN by pytorch platform.
+
+This project is a the implementation of VSPCN by pytorch platform.
 
 ## Architecture
 
@@ -10,7 +11,7 @@ This project is a basic implementation of VSPCN by pytorch platform.
 
 1. Python 3.6
 
-2. Pytorch 1.7.0
+2. Pytorch 1.7
 
 
 ## Implementations
