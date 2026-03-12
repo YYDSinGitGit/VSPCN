@@ -1,8 +1,3 @@
-# DVBE
-This is an implementation for [Domain-aware Visual Bias Eliminating for Generalized Zero-Shot Learning](https://arxiv.org/pdf/2003.13261), which has been accepted by CVPR2020.
-
-DVBE is a new state-of-the-art method for generalized zero-shot learning.
-
 ## Introduction
 This project is a basic implementation of DVBE by pytorch platform.
 
